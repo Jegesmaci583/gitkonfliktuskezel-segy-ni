@@ -1,0 +1,1 @@
+# gitkonfliktuskezel-segy-ni
